@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/birthday4/static/css/main.648ac008.css",
+    "main.js": "/birthday4/static/js/main.5e0c996f.js",
+    "static/js/787.ad412623.chunk.js": "/birthday4/static/js/787.ad412623.chunk.js",
+    "static/media/50collage.jpg": "/birthday4/static/media/50collage.d83e38040b52fecf18ad.jpg",
+    "static/media/AvenirNextLTPro-Demi.otf": "/birthday4/static/media/AvenirNextLTPro-Demi.34bbdc447d8fefe3af11.otf",
+    "index.html": "/birthday4/index.html",
+    "main.648ac008.css.map": "/birthday4/static/css/main.648ac008.css.map",
+    "main.5e0c996f.js.map": "/birthday4/static/js/main.5e0c996f.js.map",
+    "787.ad412623.chunk.js.map": "/birthday4/static/js/787.ad412623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648ac008.css",
+    "static/js/main.5e0c996f.js"
+  ]
+}
